@@ -1,0 +1,32 @@
+{
+  "name": "skylark-texts-plain",
+  "version": "0.9.0",
+  "description": "The skylarkjs plain utility Library.",
+  "main": "-",
+  "scripts": {
+    "build": "slib build .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "www.skylarkjs.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skylark-texts/skylark-texts-plain.git"
+  },
+  "keywords": [
+    "skylark",
+    "skylarkjs",
+    "plain",
+    "library",
+    "utility",
+    "parser"
+  ],
+  "author": "Hudaokeji Co.,Ltd",
+  "license": "MIT",
+  "bugs": "https://github.com/skylarkjs/skylark/issues",
+  "dependencies": {
+    "skylark-langx": "git+https://github.com/skylark-langx/skylark-langx.git#master"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
