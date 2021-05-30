@@ -1,0 +1,1 @@
+{"version":3,"sources":["plain.js"],"names":["define","skylark","skyalark","attach"],"mappings":";;;;;;;AAAAA,QACC,yBACC,SAASC,GACV,OAAOC,SAASC,OAAO","file":"../plain.js","sourcesContent":["define([\r\n\t\"skylark-langx/skylark\"\r\n],function(skylark){\r\n\treturn skyalark.attach(\"plain.plain\")\r\n});"]}
